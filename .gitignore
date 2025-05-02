@@ -1,0 +1,26 @@
+# dependencies
+node_modules
+
+# logs
+*.log
+
+# next.js
+.next
+next-env.d.ts
+
+# build
+/app
+dist
+certs
+# .env
+.env
+*.csr
+*.key
+*.crt
+*.p7b
+*.pfx
+*.pem
+*.der
+*.cer
+*.csr
+*.key
